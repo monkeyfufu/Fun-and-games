@@ -12,3 +12,6 @@ https://trailhead.salesforce.com/en/content/learn/modules/event_monitoring/event
 
 http://www.salesforcehacker.com/2014/11/downloading-event-log-files-using-script.html: Here:
 https://github.com/atorman/elfBash
+
+
+Gist for holidays in IE, AU, CA, Hyderabad, US IBM F,G,D:  https://gist.github.com/monkeyfufu/d43422ad879cca4b28ec7d5bde62a39c

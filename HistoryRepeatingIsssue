@@ -1,0 +1,22 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/.DS_Store": true,
+    "**/.history": true
+},
+
+"files.watcherExclude": {
+  "**/.history": true
+},
+
+"search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/.sfdx": true,
+    "**/.history": true
+},
+
+  "eslint.nodePath": "c:\\Users\\BeccaMorgan\\.vscode\\extensions\\salesforce.salesforcedx-vscode-lwc-47.17.1\\node_modules"
+}
